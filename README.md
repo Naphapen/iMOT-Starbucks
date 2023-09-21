@@ -1,5 +1,4 @@
-# iMOT-Statbucks
-iMOT(Statbucks) Flutter project
+# iMOT(Statbucks) Flutter project
 --------------------------------
 
 It is a project within a logistics company. for employee drivers to use.
