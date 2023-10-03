@@ -19,7 +19,6 @@ Job description
   1. Create UI and UX.
     
 - BackEnd.
-1. Connect to APIs. after Develop UI
-2. Edit APIs using C# REST APIs.
-3. Preliminary Test and Fix bug.
-4. Deploy
+  1. Connect to APIs. after Develop UI
+  2. Edit APIs using C# REST APIs.
+  3. Preliminary Test and Fix bug.
