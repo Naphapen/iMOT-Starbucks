@@ -2,6 +2,7 @@
 --------------------------------
 
 It is a project within a logistics company. for employee drivers to use.
+It's internal App, use in Onsite at warehouse Starbucks
 Flutter/Dart
 
 --------------------------------
@@ -13,7 +14,12 @@ Functions.
 5. Sign signature for receive package.
 6. Sync with website for see the working of employee drivers.
 -------------------------------
-1. create Front-End(UI) and Black-End connect to APIs
-2. edit APIs using C# REST APIs.
-3. Test and fix bug App.
+Job description
+- FrontEnd.
+  1. Create UI and UX.
+    
+- BackEnd.
+1. Connect to APIs. after Develop UI
+2. Edit APIs using C# REST APIs.
+3. Preliminary Test and Fix bug.
 4. Deploy
