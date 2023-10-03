@@ -1,4 +1,4 @@
-# iMOT(Statbucks) Flutter project
+# iMOT(Starbucks) Flutter project
 --------------------------------
 
 It is a project within a logistics company. for employee drivers to use.
