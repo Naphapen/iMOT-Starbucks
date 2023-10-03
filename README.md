@@ -2,8 +2,9 @@
 --------------------------------
 
 It is a project within a logistics company. for employee drivers to use.
-It's internal App, use in job onsite at warehouse Starbucks
-Flutter/Dart
+It's internal App, use in job onsite at warehouse Starbucks.
+
+Develop useing Flutter/Dart
 
 --------------------------------
 Functions.
